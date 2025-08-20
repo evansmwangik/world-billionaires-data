@@ -16,13 +16,13 @@ I also provide filters in a the dashboard to help the user toggle and understand
 - Reformatting column data
 - Performing calculations on things such as age
 
-### Data Analysis
+### 2. Data Analysis
 - Use of pivot tables to group data which I later use for visualization.
   - Sorting Pivot Table data
   - Filtering Pivot Table data
   - Grouping Pivot Table data
  
-### Data Visualization
+### 3. Data Visualization
 - I use Bar charts, Piecharts, Treemaps and other shapes to create a proper dashboard for visualization.
   - Use of slicers to create filters for the different charts in the dashboard.
  
