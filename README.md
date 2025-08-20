@@ -29,7 +29,7 @@ I also provide filters in a the dashboard to help the user toggle and understand
 ## Conclusion
 ### Insights Gotten from the Data
 1. United states leads in billionaires count generally. It's followed by China.
-2. There's a higher percentage of men Billionairs than there are women.
+2. There's a higher percentage of men Billionaires than there are women.
 3. Many billionaires start from the age of 40 onwards. There are only a few (4) who are below the age of 40.
    - Most billionaires fall uneder the age of 60-70 years (133).
   
