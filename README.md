@@ -36,7 +36,7 @@ I also provide filters in a the dashboard to help the user toggle and understand
 More insights are in the this workbook
 
 #### Sheets
-Data Backup - Contains raw untouched data.
-Data - Contains the cleaned data
-Pivot Tables - Contains the pivot tables and the data used in creating visualizations in the dashboard.
-Dashboard - Contains the Viz.
+- Data Backup - Contains raw untouched data.
+- Data - Contains the cleaned data
+- Pivot Tables - Contains the pivot tables and the data used in creating visualizations in the dashboard.
+- Dashboard - Contains the Viz.
